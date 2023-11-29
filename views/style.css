@@ -1,0 +1,18 @@
+.nav-link {
+    text-align:center;
+    color: blue;
+}
+.container-fluid{
+    background-color: #ff4a96;
+    padding: 20px;
+    margin-top: 0px;
+}
+.navbar-brand{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
